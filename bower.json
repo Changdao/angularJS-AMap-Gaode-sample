@@ -1,0 +1,26 @@
+{
+  "author": "Changdao",
+  "name": "angular-amap-gaode-sample",
+  "version": "1.0",
+  "authors": [
+    "Changdao <jameslau@263.net>"
+  ],
+  "homepage": "http://changdao.github.io",
+  "keywords": [
+    "angular",
+    "map",
+    "gaode",
+    "amap"
+  ],
+  "main": "./demo.html",
+  "dependencies": {
+    "angular": "1.x",
+    "angular-bootstrap":"~1.x",
+    "font-awesome":"4.3.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.x",
+    "angular-bootstrap": "0.10.0",
+    "bootstrap": "~3.2.0"
+  }
+}
